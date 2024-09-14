@@ -1,3 +1,5 @@
+//1. bfs 풀이
+
 import java.util.*;
 class Solution {
     ArrayList<Integer>[] graph;
@@ -53,5 +55,48 @@ class Solution {
             
         }
         return cnt;
+    }
+}
+
+
+//2. dfs 풀이
+import java.util.*;
+class Solution {
+    int answer=101;
+    ArrayList<Integer>[] graph;
+    boolean visited[];
+    int n;
+    public int solution(int n, int[][] wires) {
+        this.visited= new boolean[n+1];
+        graph = new ArrayList[n+1];
+        this.n=n;
+        for(int i=1;i<n+1;i++){
+            graph[i]=new ArrayList<>();
+        }
+        for(int i=0;i<wires.length;i++){
+            graph[wires[i][0]].add(wires[i][1]);
+            graph[wires[i][1]].add(wires[i][0]);
+        }
+        visited[1]=true;
+        dfs(1);
+        
+        return answer;
+    }
+    int dfs(int num){
+        
+        int sum=0;
+        for(int i=0;i<graph[num].size();i++){
+            if(visited[graph[num].get(i)]){
+                continue;
+            }
+            visited[graph[num].get(i)]=true;
+            int value=dfs(graph[num].get(i));
+            answer=Math.min(answer,Math.abs(n-2*value));
+            sum+=value;
+        }
+        if(sum==0){
+            return 1;
+        }
+        return sum+1;
     }
 }
