@@ -1,14 +1,11 @@
 //1. bfs 풀이
-
 import java.util.*;
 class Solution {
     ArrayList<Integer>[] graph;
     boolean visited1[];
-    boolean visited2[];
     public int solution(int n, int[][] wires) {
         int answer = 101;
         this.visited1=new boolean[n+1];
-        this.visited2=new boolean[n+1];
         this.graph=new ArrayList[n+1];
         for(int i=1;i<n+1;i++){
             graph[i]=new ArrayList<>();
@@ -22,13 +19,10 @@ class Solution {
         for(int i=1;i<n+1;i++){
             for(int j : graph[i]){
                 int a = bfs(i,j);
-                int b=bfs(j,i);
-                //answer=Math.min(Math.abs(a-(n-a)),answer);
-                answer=Math.min(Math.abs(a-b),answer);
+                answer=Math.min(Math.abs(a-(n-a)),answer);
                 //System.out.println(answer+ " a="+a+" b="+b);
                 visited1=new boolean[n+1];
-                // visited1[j]=false;
-                // visited1[i]=false;
+
             }
         }
         
@@ -58,7 +52,7 @@ class Solution {
     }
 }
 
-
+////////////////////////////////////////////////////////////////////////////
 //2. dfs 풀이
 import java.util.*;
 class Solution {
