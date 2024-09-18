@@ -25,7 +25,8 @@
 | |1|2|3|4|5|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1주차(09.02~09.08)|[타겟 넘버(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|[올바른 괄호(스택/큐)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[카펫(완전탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[문자열 압축(문자열)](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[가장 큰 수(정렬)](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|
-|2주차(09.09~09.015)|[수식최대화(완전탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[전력망을 둘로 나누기(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[정수 삼각형(DP)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[삼각 달팽이(구현)](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[조이스틱(그리디)](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
+|2주차(09.09~09.15)|[수식최대화(완전탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[전력망을 둘로 나누기(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[정수 삼각형(DP)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[삼각 달팽이(구현)](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[조이스틱(그리디)](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
+|3주차(09.19~09.22)|[배열 돌리기1(구현)](https://www.acmicpc.net/problem/16926)|[ABCDE(DFS/BFS)](https://www.acmicpc.net/problem/13023)|[가장 긴 증가하는 부분 수열(DP)](https://www.acmicpc.net/problem/11053)|[빗물(구현)](https://www.acmicpc.net/problem/14719)|[숨바꼭질(DFS/BFS)](https://www.acmicpc.net/problem/13549)|
 
 ---
 
