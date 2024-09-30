@@ -28,6 +28,7 @@
 |2주차(09.09~09.15)|[수식최대화(완전탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|[전력망을 둘로 나누기(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|[정수 삼각형(DP)](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[삼각 달팽이(구현)](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|[조이스틱(그리디)](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
 |3주차(09.19~09.22)|[배열 돌리기1(구현)](https://www.acmicpc.net/problem/16926)|[ABCDE(DFS/BFS)](https://www.acmicpc.net/problem/13023)|[가장 긴 증가하는 부분 수열(DP)](https://www.acmicpc.net/problem/11053)|[빗물(구현)](https://www.acmicpc.net/problem/14719)|[숨바꼭질(DFS/BFS)](https://www.acmicpc.net/problem/13549)|
 |4주차(09.23~09.29)|[단어 뒤집기2(문자열)](https://www.acmicpc.net/problem/17413)|[연속합(DP)](https://www.acmicpc.net/problem/1912)|[봄버맨(DFS/BFS)](https://www.acmicpc.net/problem/16918)|[트리의 부모찾기(DFS/BFS)](https://www.acmicpc.net/problem/11725)|
+|5주차(09.30~10.06)|[소수찾기(완전탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[네트워크(bfs/dfs)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[점프(DP)](https://www.acmicpc.net/problem/1890)|[연산자 끼워넣기(백트래킹)](https://www.acmicpc.net/problem/14888)|[토마토(dfs/bfs)](https://www.acmicpc.net/problem/7576)|
 
 ---
 
