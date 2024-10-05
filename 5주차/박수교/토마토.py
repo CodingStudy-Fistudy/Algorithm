@@ -32,26 +32,40 @@ def bfs():
             if graph[nx][ny] == 0:
                 graph[nx][ny] = graph[x][y]+1
                 queue.append([nx,ny])
-          
-            
+
+                
+#2차원리스트 1차원으로 변환해서, 0이 있는지 체크            
 res = sum(graph,[])
 
-#0이 리스트에 하나도 없는 경우 0리턴
+#0이 리스트에 하나도 없는 경우 0출력하고 프로그램 종료
 if 0 not in res:
     print(0)
     exit(0)
-else:
+#0이 리스트에 존재하는 경우 좌표를 다 돌면서 1인 좌표값을 덱에 추가
+else:    
     for i in range(n):
         for j in range(m):
             if graph[i][j] == 1:
                 queue.append([i,j])
                 
-
 bfs()
-#print(graph)
+
+#2차원리스트 1차원으로 변환해서, 0이 있는지 체크 
 res_2 = sum(graph, [])
+#0이 있다면 변환하지 못하는 부분이 있으므로 -1출력하고 프로그램 종료
 if 0 in res_2:
     print(-1)
     exit(0)
 else:
     print(max(res_2)-1)
+                
+
+    
+
+
+                
+
+
+
+    
+
