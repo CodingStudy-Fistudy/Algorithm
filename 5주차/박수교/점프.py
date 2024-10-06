@@ -21,3 +21,4 @@ for i in range(n):
                 dp[i][board[i][j] + j] += dp[i][j]
                 
 print(dp[-1][-1])
+
