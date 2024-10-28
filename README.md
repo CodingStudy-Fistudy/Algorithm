@@ -22,13 +22,6 @@
 ---
 ## 😄금주 공지👶
 
-지난주차 결과로 두 분이 기쁜마음으로 모금을 해주셔서 스터디 누적 회비 90,000원을 달성했습니다. 😅
-
-회식 때, 🐔🍔🍕 를 먹을지 🥩🍖 를 먹을지는 여러분의 노력에 달려있습니다. 🔥
-
-그럼 이번주도 화이팅입니다! 👫
-
-
 감사합니다 🙇
 
 ## **📅 일정표 (09.02 ~ 매주 5문제)**
@@ -40,7 +33,8 @@
 |4주차(09.23~09.29)|[단어 뒤집기2(문자열)](https://www.acmicpc.net/problem/17413)|[연속합(DP)](https://www.acmicpc.net/problem/1912)|[봄버맨(DFS/BFS)](https://www.acmicpc.net/problem/16918)|[트리의 부모찾기(DFS/BFS)](https://www.acmicpc.net/problem/11725)|
 |5주차(09.30~10.06)|[소수찾기(완전탐색)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[네트워크(bfs/dfs)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|[점프(DP)](https://www.acmicpc.net/problem/1890)|[연산자 끼워넣기(백트래킹)](https://www.acmicpc.net/problem/14888)|[토마토(dfs/bfs)](https://www.acmicpc.net/problem/7576)|
 |6주차(10.14~10.20)|[뒤에 있는 더 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|[리코체 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|[이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|[A->B](https://www.acmicpc.net/problem/16953)|
-|7주차(10.21~10.25)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|[둥굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|[치킨 배달](https://www.acmicpc.net/problem/15686)|
+|7주차(10.21~10.27)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|[둥굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|[치킨 배달](https://www.acmicpc.net/problem/15686)|
+|8주차(10.28~11.3)|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[1학년](https://www.acmicpc.net/problem/5557)|[회전초밥](https://www.acmicpc.net/problem/2531)|
 
 ---
 
