@@ -35,6 +35,7 @@
 |6주차(10.14~10.20)|[뒤에 있는 더 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|[리코체 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|[이중 우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|[야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|[A->B](https://www.acmicpc.net/problem/16953)|
 |7주차(10.21~10.27)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|[둥굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|[치킨 배달](https://www.acmicpc.net/problem/15686)|
 |8주차(10.28~11.3)|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[1학년](https://www.acmicpc.net/problem/5557)|[회전초밥](https://www.acmicpc.net/problem/2531)|
+|9주차(10.28~11.3)|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885 )|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188?language=java)|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|
 
 ---
 
